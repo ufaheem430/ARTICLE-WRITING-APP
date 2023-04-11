@@ -1,0 +1,7 @@
+{
+    "editor.quickSuggestions": null,
+    "dart.flutterHotReloadOnSave": "always",
+    "editor.tokenColorCustomizations": {
+        "variables": "#ebe7e7"
+    },
+}
